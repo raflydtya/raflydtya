@@ -1,5 +1,5 @@
 <h1 align="center">ABOUT</h1>
-<p
+<p align="center">MY NAME IS REVI 
 <p align="center"> <img src="https://telegra.ph/file/31c9270b2832259337362.jpg" /> </p>
 
 
@@ -18,7 +18,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" alt="designer" width="300" />
 
 
-
+<p align="center"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/dino.gif" alt="dino"  />
 
 <!---
 raflydtya/raflydtya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
