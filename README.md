@@ -12,10 +12,10 @@
 <h5 align="center">STATS</h5>
 <h6 align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raflydtya&show_icons=true&theme=dark&locale=en" alt="raflydtya" /></p></h6>
 
-<h7 align="center">DESIGN</h7>
+<p align="center">DESIGN</h7>
 
-<h8 align="center"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" alt="designer" width="300" /></p></h8>
 
+<p align="center"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" alt="designer" width="300" />
 
 
 
