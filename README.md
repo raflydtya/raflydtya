@@ -22,7 +22,7 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 <br>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=raflydtya" alt="https://github.com/raflydtya" />
+<p align="center"><img src="https://komarev.com/ghpvc/?username=raflydtya&style=for-the-badge&label=Jumlah Stalker" alt="https://github.com/raflydtya" />
 
 <p align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raflydtya&show_icons=true&theme=dark&locale=en" alt="raflydtya" /></p></h6>
 <p align="center"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/dino.gif" alt="dino"  />
