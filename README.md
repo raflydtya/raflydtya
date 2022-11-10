@@ -24,6 +24,14 @@
 <br>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=raflydtya&style=for-the-badge&label=Jumlah Stalker" alt="https://github.com/raflydtya" />
 
+## 📩 Kontak
+<p><img src="https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram"><a href="https://t.me/limitedReva_bot"</a>
+<br>
+
+##
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raflydtya&theme=blue-green)
+
 <p align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raflydtya&show_icons=true&theme=dark&locale=en" alt="raflydtya" /></p></h6>
 <p align="center"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/dino.gif" alt="dino"  />
 
