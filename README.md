@@ -8,6 +8,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ## 💾 Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -21,19 +22,24 @@
 ## ✒️ Editor
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
-<br>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=raflydtya&style=for-the-badge&label=Jumlah Stalker" alt="https://github.com/raflydtya" />
-
 ## 📩 Kontak
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/limitedReva_bot)
 
 
-##
+## 💻 Github
+<br>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=raflydtya&style=for-the-badge&label=Jumlah Stalker" alt="https://github.com/raflydtya" />
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raflydtya&theme=blue-green)
 
 <p align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raflydtya&show_icons=true&theme=dark&locale=en" alt="raflydtya" /></p></h6>
+
+
+
+<!---
 <p align="center"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/dino.gif" alt="dino"  />
+--->
+
 
 <!---
 raflydtya/raflydtya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
