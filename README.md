@@ -4,7 +4,7 @@
 -  **Learning:** Python :snake: | Open-Source :fire:	
 -  **Hobi:** Music :headphones:
 
-## 💡 Bahasa
+## 💡 Language
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -12,6 +12,17 @@
 ## 💾 Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## ☁️ Cloud Hosting
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+## ✒️ Editor
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+
+<br>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=raflydtya" alt="https://github.com/raflydtya" />
 
 <p align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raflydtya&show_icons=true&theme=dark&locale=en" alt="raflydtya" /></p></h6>
 <p align="center"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/dino.gif" alt="dino"  />
