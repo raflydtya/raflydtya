@@ -25,8 +25,8 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=raflydtya&style=for-the-badge&label=Jumlah Stalker" alt="https://github.com/raflydtya" />
 
 ## 📩 Kontak
-<p><img src="https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram"><a href="https://t.me/limitedReva_bot"</a>
-<br>
+[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/limitedReva_bot)
+
 
 ##
 
