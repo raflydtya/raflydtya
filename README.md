@@ -1,47 +1,33 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+# <p align="center">Fun Fact
 
-## 🤔 Fun Fact
--  **Learning:** Python :snake: | Open-Source :fire:	
--  **Hobi:** Music :headphones:
+<p align="center">Hi, I'm using Python for running some program on Telegram bot.
+<p align="center">I'm currently learning HTML and Javascript.
+<p align="center">My hobby is listening music.
 
-## 💡 Language
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+## 💻 LANGUAGE
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
-## 💾 Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-## ☁️ Cloud Hosting
+## 🔌 HOSTING
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-## ✒️ Editor
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+## 📚 DATABASE
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 📩 Kontak
-[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/limitedReva_bot)
+## 🔖 STATISTIC
+![](https://github-readme-stats.vercel.app/api?username=raflydtya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=raflydtya&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=raflydtya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## <p align="center">[![](https://visitcount.itsvg.in/api?id=raflydtya&icon=1&color=2)](https://visitcount.itsvg.in)
+<p align="center">Feel free to chat me on <a href="http://telegram.me/limitedReva_bot">Telegram</a>
 
-## 💻 Github
-<br>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=raflydtya&style=for-the-badge&label=Jumlah Stalker" alt="https://github.com/raflydtya" />
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raflydtya&theme=blue-green)
-
-<p align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raflydtya&show_icons=true&theme=dark&locale=en" alt="raflydtya" /></p></h6>
-
-
-
-<!---
 <p align="center"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/dino.gif" alt="dino"  />
---->
 
-
-<!---
-raflydtya/raflydtya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
