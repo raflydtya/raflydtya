@@ -23,16 +23,10 @@
 
 ## 🔖 STATISTIC
 ![](https://github-readme-streak-stats.herokuapp.com/?user=raflydtya&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=raflydtya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=raflydtya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## <p align="center">[![](https://visitcount.itsvg.in/api?id=raflydtya&icon=1&color=2)](https://visitcount.itsvg.in)
 <p align="center">Feel free to chat me on <a href="http://telegram.me/limitedReva_bot">Telegram</a>
 
 <p align="center"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/dino.gif" alt="dino"  />
-
-
-<!---
-![](https://github-readme-stats.vercel.app/api?username=raflydtya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raflydtya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raflydtya)](https://github.com/raflydtya/github-readme-stats)
-
----!>
